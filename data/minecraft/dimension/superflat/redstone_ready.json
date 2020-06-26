@@ -1,0 +1,26 @@
+{
+  "generator": {
+    "settings": {
+      "structures": {
+        "structures": {}
+      },
+      "layers": [
+        {
+          "height": 1,
+          "block": "minecraft:bedrock"
+        },
+        {
+          "height": 3,
+          "block": "minecraft:stone"
+        },
+        {
+          "height": 52,
+          "block": "minecraft:sandstone"
+        }
+      ],
+      "biome": "minecraft:desert"
+    },
+    "type": "minecraft:flat"
+  },
+  "type": "fake:overworld"
+}

@@ -1,0 +1,6 @@
+{
+  "generator": {
+    "type": "minecraft:debug"
+  },
+  "type": "debug:debug_all_block_states"
+}
