@@ -2,11 +2,6 @@
   "generator": {
     "settings": {
       "structures": {
-        "stronghold": {
-          "distance": 32,
-          "spread": 3,
-          "count": 128
-        },
         "structures": {
           "minecraft:village": {
             "spacing": 32,
@@ -29,6 +24,8 @@
           "block": "minecraft:grass_block"
         }
       ],
+      "lakes": false,
+      "features": false,
       "biome": "minecraft:plains"
     },
     "type": "minecraft:flat"

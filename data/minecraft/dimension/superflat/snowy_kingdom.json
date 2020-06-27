@@ -2,7 +2,18 @@
   "generator": {
     "settings": {
       "structures": {
-        "structures": {}
+        "structures": {
+          "minecraft:igloo": {
+            "spacing": 32,
+            "separation": 8,
+            "salt": 14357618
+          },
+          "minecraft:village": {
+            "spacing": 32,
+            "separation": 8,
+            "salt": 10387312
+          }
+        }
       },
       "layers": [
         {
@@ -26,6 +37,8 @@
           "block": "minecraft:snow"
         }
       ],
+      "lakes": false,
+      "features": false,
       "biome": "minecraft:snowy_tundra"
     },
     "type": "minecraft:flat"

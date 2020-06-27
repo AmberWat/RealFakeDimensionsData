@@ -18,6 +18,8 @@
           "block": "minecraft:sandstone"
         }
       ],
+      "lakes": false,
+      "features": false,
       "biome": "minecraft:desert"
     },
     "type": "minecraft:flat"

@@ -10,6 +10,8 @@
           "block": "minecraft:air"
         }
       ],
+      "lakes": false,
+      "features": true,
       "biome": "minecraft:the_void"
     },
     "type": "minecraft:flat"

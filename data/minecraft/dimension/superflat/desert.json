@@ -2,7 +2,28 @@
   "generator": {
     "settings": {
       "structures": {
-        "structures": {}
+        "stronghold": {
+          "distance": 32,
+          "spread": 3,
+          "count": 128
+        },
+        "structures": {
+          "minecraft:desert_pyramid": {
+            "spacing": 32,
+            "separation": 8,
+            "salt": 14357617
+          },
+          "minecraft:village": {
+            "spacing": 32,
+            "separation": 8,
+            "salt": 10387312
+          },
+          "minecraft:mineshaft": {
+            "spacing": 1,
+            "separation": 0,
+            "salt": 0
+          }
+        }
       },
       "layers": [
         {
@@ -22,6 +43,8 @@
           "block": "minecraft:sand"
         }
       ],
+      "lakes": false,
+      "features": true,
       "biome": "minecraft:desert"
     },
     "type": "minecraft:flat"

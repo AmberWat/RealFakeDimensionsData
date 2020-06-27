@@ -59,9 +59,19 @@
             "separation": 20,
             "salt": 10387319
           },
+          "minecraft:buried_treasure": {
+            "spacing": 1,
+            "separation": 0,
+            "salt": 0
+          },
+          "minecraft:mineshaft": {
+            "spacing": 1,
+            "separation": 0,
+            "salt": 0
+          },
           "minecraft:ruined_portal": {
-            "spacing": 25,
-            "separation": 10,
+            "spacing": 40,
+            "separation": 15,
             "salt": 34222645
           },
           "minecraft:shipwreck": {
@@ -75,12 +85,12 @@
             "salt": 14357621
           },
           "minecraft:bastion_remnant": {
-            "spacing": 30,
+            "spacing": 27,
             "separation": 4,
             "salt": 30084232
           },
           "minecraft:fortress": {
-            "spacing": 30,
+            "spacing": 27,
             "separation": 4,
             "salt": 30084232
           },

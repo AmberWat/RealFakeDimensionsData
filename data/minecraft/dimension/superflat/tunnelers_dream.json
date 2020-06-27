@@ -2,7 +2,18 @@
   "generator": {
     "settings": {
       "structures": {
-        "structures": {}
+        "stronghold": {
+          "distance": 32,
+          "spread": 3,
+          "count": 128
+        },
+        "structures": {
+          "minecraft:mineshaft": {
+            "spacing": 1,
+            "separation": 0,
+            "salt": 0
+          }
+        }
       },
       "layers": [
         {
@@ -22,6 +33,8 @@
           "block": "minecraft:grass_block"
         }
       ],
+      "lakes": false,
+      "features": true,
       "biome": "minecraft:mountains"
     },
     "type": "minecraft:flat"

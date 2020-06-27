@@ -2,7 +2,23 @@
   "generator": {
     "settings": {
       "structures": {
-        "structures": {}
+        "structures": {
+          "minecraft:ocean_ruin": {
+            "spacing": 20,
+            "separation": 8,
+            "salt": 14357621
+          },
+          "minecraft:shipwreck": {
+            "spacing": 24,
+            "separation": 4,
+            "salt": 165745295
+          },
+          "minecraft:monument": {
+            "spacing": 32,
+            "separation": 5,
+            "salt": 10387313
+          }
+        }
       },
       "layers": [
         {
@@ -26,6 +42,8 @@
           "block": "minecraft:water"
         }
       ],
+      "lakes": false,
+      "features": false,
       "biome": "minecraft:deep_ocean"
     },
     "type": "minecraft:flat"
